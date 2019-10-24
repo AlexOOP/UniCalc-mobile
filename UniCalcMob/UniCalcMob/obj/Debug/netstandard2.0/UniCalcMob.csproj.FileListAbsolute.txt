@@ -1,0 +1,16 @@
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\bin\Debug\netstandard2.0\UniCalcMob.deps.json
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\bin\Debug\netstandard2.0\UniCalcMob.dll
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\bin\Debug\netstandard2.0\UniCalcMob.pdb
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\UniCalcMob.csproj.CoreCompileInputs.cache
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\UniCalcMob.AssemblyInfoInputs.cache
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\UniCalcMob.AssemblyInfo.cs
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\UniCalcMob.dll
+C:\Users\aleksandr.chanov\source\repos\UniCalcMob\UniCalcMob\UniCalcMob\obj\Debug\netstandard2.0\UniCalcMob.pdb
